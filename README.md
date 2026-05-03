@@ -39,6 +39,8 @@ Pakistan's rapidly growing e-commerce sector generates massive volumes of transa
 ## 📊 Dashboard Pages
  
 ### Page 1 — Overview
+<img width="1000" height="620" alt="image" src="https://github.com/user-attachments/assets/358ae3dd-aa56-4e67-98a4-7dde8700d690" />
+
 > *"What is the overall health of our e-commerce business?"*
  
 | KPI | Value |
@@ -55,6 +57,8 @@ Pakistan's rapidly growing e-commerce sector generates massive volumes of transa
 ---
  
 ### Page 2 — Sales Analysis
+<img width="991" height="567" alt="image" src="https://github.com/user-attachments/assets/e56d4f91-89f9-4239-8bb1-abb7aee24ed3" />
+
 > *"Which categories and months drive the most value, and how is the trend moving?"*
  
 - Best category: **Electronics** (19.23M revenue)
@@ -67,6 +71,8 @@ Pakistan's rapidly growing e-commerce sector generates massive volumes of transa
 ---
  
 ### Page 3 — Data Quality
+<img width="999" height="572" alt="image" src="https://github.com/user-attachments/assets/daa1a661-6963-4ead-bec7-f4108095b983" />
+
 > *"Can we trust the data driving our decisions?"*
  
 | Metric | Value |
@@ -83,6 +89,8 @@ Pakistan's rapidly growing e-commerce sector generates massive volumes of transa
 ---
  
 ### Page 4 — Sales Forecast
+<img width="997" height="623" alt="image" src="https://github.com/user-attachments/assets/cb58c9f5-f082-45be-8807-09e45f5c5d33" />
+
 > *"What will our sales look like over the next 3 months?"*
  
 | Model | Jan 2026 | Feb 2026 | Mar 2026 | 3-Mo Total |
@@ -298,10 +306,10 @@ Data_Quality_Score =
  
 ## 👤 Author
  
-**[Your Name]**
-- 📧 your.email@example.com
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐙 [GitHub](https://github.com/YOUR_USERNAME)
+**Laiba**
+- 📧 laibaaslam383@gmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/laiba-aslam26)
+- 🐙 [GitHub](https://github.com/laiba26-aslam)
 ---
  
 ## 📄 License
