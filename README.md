@@ -40,6 +40,7 @@ Pakistan's rapidly growing e-commerce sector generates massive volumes of transa
  
 ### Page 1 — Overview
 <img width="830" height="514" alt="image" src="https://github.com/user-attachments/assets/2b09221e-3a22-4a5c-9b5d-fdcf6bf7bd0d" />
+<img width="418" height="525" alt="image" src="https://github.com/user-attachments/assets/97de8fb2-7d49-4c57-bc17-b25fca6afeda" />
 
 
 
